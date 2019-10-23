@@ -1,4 +1,6 @@
-# Discuss
+# MC-Discuss
+A fork of discuss dedicated to minecraft communities 
+
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 
 > [Serverless](http://serverless.com) forum software
@@ -16,10 +18,6 @@ Table of contents
   - [comments](#comments)
 
 ---
-
-## Video demo
-[![Discuss YouTube video](https://img.youtube.com/vi/ygOKXkhj6wo/0.jpg)](https://www.youtube.com/watch?v=ygOKXkhj6wo)
-
 ## Setup
 ### Backend
 1. Clone `git clone git@github.com:JustServerless/discuss.git` to your local machine.
